@@ -1,7 +1,8 @@
 # Shorten-URL-Backend
 
 ## About The Project
-#### A project work by transforming any long URL into a shorter, create QR Code, tracking click in your link.
+A project work by transforming any long URL into a shorter, create QR Code, tracking click in your link.
+
 <img src="https://i.imgur.com/U0etz6E.png" width="800" height="400"/>
 
 ## Built With
